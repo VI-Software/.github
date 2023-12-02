@@ -7,6 +7,6 @@
 
 **💻Contribution guidelines**
 
-Puedes consultar nuestras pautas de contribución. [aquí](https://vi-software.gitbook.io/vi-software/guidelines/contribution-guidelines)
+Puedes consultar nuestras pautas de contribución. [aquí](https://docs-vis.galnod.com/vi-software/guidelines/contribution-guidelines)
 
 
