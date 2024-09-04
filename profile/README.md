@@ -3,7 +3,7 @@
 
 
 
-**🙋‍♀️ VI Software (VIS)** está profundamente comprometido con la selección cuidadosa y la administración efectiva de servidores de Minecraft diseñados específicamente para uso educativo entre estudiantes. Nuestra misión es proporcionar un espacio virtual dedicado que no solo se alinee con los objetivos académicos sino que también facilite experiencias de aprendizaje colaborativo dentro de la plataforma Minecraft.
+Dedicated to empowering administrators of modded Minecraft servers, VI Software provides an extensive range of tools designed to enhance control and management capabilities. The organization offers an open-source launcher, distinctive user interfaces, and a comprehensive API, along with intuitive and easy-to-use panels for end users. These solutions are crafted to deliver advanced functionality and flexibility, ensuring server administrators have the resources they need to optimize their server environments and achieve exceptional performance.
 
 **💻Contribution guidelines**
 
